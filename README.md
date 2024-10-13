@@ -1,8 +1,8 @@
 Hi there~
 
-I'm Sam from HK and currently moving to the UK.
+I'm Sam from HK, and I'm currently moving to the UK.
 
-Not many things on GitHub yet... But I built different projects, both hardware and software:
+Not many things on GitHub yet... but I've worked on a variety of hardware and software projects, including:
 - DIY FFB Wheel
 - DIY Wireless Charger
 - DIY Deej Volume Mixer w/ Macro Buttons
