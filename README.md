@@ -1,6 +1,6 @@
 Hi there~
 
-I'm Sam. 
+I'm Sam from HK and currently moving to the UK.
 
 Not many things on GitHub yet... But I built different projects:
 - DIY FFB Wheel
